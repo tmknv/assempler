@@ -1,0 +1,77 @@
+﻿  assembler.cpp
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(6,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,11): error C2065: сохранить: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "данные"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,30): error C2065: данные: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,43): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,43): error C2065: в: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стек"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(7,46): error C2065: стек: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(8,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(8,9): error C2065: push: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(8,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(8,14): error C2065: eax: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(9,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(9,9): error C2065: push: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(9,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(9,14): error C2065: ebx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(10,9): error C2065: push: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(10,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(10,14): error C2065: edx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(12,11): error C2065: обнулить: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(12,28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "значения"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(12,28): error C2065: значения: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(12,46): error C2065: если: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(12,55): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "были"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(12,55): error C2065: были: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(13,13): error C2065: eax: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(13,18): error C2065: eax: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(14,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(14,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(15,13): error C2065: edx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(15,18): error C2065: edx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(17,11): error C2065: присваивание: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(17,36): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "значений"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(17,36): error C2065: значений: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(18,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(18,9): error C2065: mov: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(18,13): error C2065: eax: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(19,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(19,9): error C2065: mov: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(19,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(21,11): error C2065: действия: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(22,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "idiv"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(22,9): error C2065: idiv: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(22,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(22,14): error C2065: ebx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(24,11): error C2065: результат: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(24,30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(24,30): error C2065: в: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(24,33): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(25,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(25,9): error C2065: mov: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(25,18): error C2065: edx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,11): error C2065: вернуть: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "значения"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,26): error C2065: значения: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,43): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "из"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,43): error C2065: из: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,48): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стека"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(27,48): error C2065: стека: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(28,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pop"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(28,9): error C2065: pop: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(28,13): error C2065: edx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(29,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pop"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(29,9): error C2065: pop: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(29,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pop"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(30,9): error C2065: pop: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(30,13): error C2065: eax: необъявленный идентификатор
+C:\Users\t11mk\OneDrive\Рабочий стол\si\assembler\assembler.cpp(31,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
